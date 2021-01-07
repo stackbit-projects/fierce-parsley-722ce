@@ -7,6 +7,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: page
+image: images/Crop-Techniques-1.jpg
 ---
 ## Lorem ipsum
 
