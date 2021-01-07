@@ -132,6 +132,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/11_thumb.jpg
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 template: landing
